@@ -1,0 +1,404 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Nunito Sans", sans-serif;
+}
+
+.content-area {
+  width: 100% !important;
+}
+
+:root {
+  --primary: #3380ff;
+  --danger: #ff3524;
+  --warning: #ffc829;
+  --warning-2: #ffc82950;
+  --success: #40ce66;
+  --dark: #1b1b1b;
+  --demi-dark: #4f4f4f;
+  --grey: #a9aeb7;
+  --light: #e9edf1;
+  --white: #fff;
+  --primary-font: "Nunito", sans-serif;
+}
+
+body {
+  font-size: 16px;
+  /* max-width: 765px; */
+}
+div#customer_details,
+div#order_review {
+  padding-bottom: 60px;
+}
+.container {
+  width: auto;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+html,
+.appmakerCheckout {
+  background-color: #fff !important;
+}
+
+button,
+.button {
+  background-color: var(--primary);
+  border-radius: 0.25rem;
+  border: none;
+  color: var(--white);
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  display: flex;
+  font-size: 0.8rem;
+  cursor: pointer;
+  align-items: center;
+  text-decoration: none;
+}
+
+button:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover,
+.button:hover,
+.widget a.button:hover {
+  background-color: #286cda !important;
+  border-color: none !important;
+  color: #fff !important;
+  outline: none !important;
+}
+
+.no-deco {
+  text-decoration: none;
+}
+
+.h1-heading {
+  font-family: "Nunito Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+}
+
+p {
+  font-family: "Nunito Sans", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 22px;
+}
+
+/* Main Screens */
+
+.top-navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navigation-item {
+  width: 33%;
+  background-color: var(--light);
+  text-align: center;
+  padding: 1.5rem 0;
+}
+
+.navigation-item.active {
+  background-color: var(--white);
+}
+
+.no-address {
+  background-color: #3380ff26;
+  border-radius: 0.5rem;
+  padding: 2rem;
+  margin-top: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-bottom: 0.5rem;
+  min-height: 7rem;
+}
+
+.address-block {
+  background: var(--light);
+  padding: 0.5rem 0.5rem 0.5rem 2.5rem;
+  border-radius: 0.5rem;
+  position: relative;
+  margin-bottom: 0.5rem;
+}
+
+.address-block input[type="radio"] {
+  display: none;
+}
+
+.address-block label::before {
+  content: "";
+  position: absolute;
+  left: 0.5rem;
+  top: 45%;
+  background-color: var(--grey);
+  border-radius: 1rem;
+  color: white;
+  width: 1.4rem;
+  height: 1.4rem;
+  text-align: center;
+}
+
+.address-block input[type="radio"]:checked + label::before {
+  content: "\2713";
+  background-color: var(--success);
+}
+
+.fixed-footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid var(--light);
+  background-color: var(--white);
+  z-index: 99999;
+  height: 56px;
+}
+
+.fixed-footer h4 {
+  font-size: 1.2rem;
+}
+
+.fixed-footer a {
+  font-size: 0.75rem;
+  color: #3380ff;
+}
+
+.fixed-footer .order-data {
+  padding: 0.5rem;
+  flex: 1;
+  margin-left: 1rem;
+}
+
+.fixed-footer button {
+  width: 100% !important;
+  height: 100% !important;
+  flex: 1;
+  border-radius: 0;
+  font-size: 1.3rem;
+  justify-content: center;
+  color: var(--white);
+}
+
+.order-data h4 {
+  margin-bottom: 0;
+}
+
+html {
+  margin-top: 0 !important;
+}
+
+#order_review_heading,
+.block-heading {
+  margin-top: 1rem;
+}
+
+/* Main Screens -- End */
+
+/* Add address screen */
+
+/* 
+	.fl-wrap {
+		position: relative;
+		display: inline;
+	}
+
+	.fl-wrap label.fl-label {
+		transition: all 0.3s;
+		font-size: 12px;
+		white-space: nowrap;
+		position: absolute;
+		line-height: 1;
+		top: 0.5em;
+		opacity: 0;
+		pointer-events: none;
+		left: 1.1em;
+		font-weight: normal;
+	}
+
+	.fl-input.focus-visible+label:first-child {
+		opacity: 1;
+		z-index: 1;
+	} */
+
+.form-row input:not([type="checkbox"]),
+.form-row textarea,
+.form-row select {
+  height: 2rem;
+  transition: padding 0.3s;
+  width: 100%;
+  margin-bottom: 0.8rem;
+  padding: 0.3rem;
+}
+
+abbr.required {
+  color: var(--danger);
+}
+
+.appmakerCheckout input[type],
+.appmakerCheckout textarea {
+  border: 1px solid #a9aeb7;
+  border-radius: 4px;
+  height: 40px !important;
+  background: #fff;
+  margin-bottom: 0;
+}
+
+.appmakerCheckout textarea,
+.appmakerCheckout input[type="checkbox"],
+.appmakerCheckout input[type="radio"] {
+  height: unset !important;
+}
+
+.appmakerCheckout .checkout_coupon.woocommerce-form-coupon,
+.appmakerCheckout form.checkout {
+  margin: 0 1rem !important;
+}
+
+.appmakerCheckout
+  .woocommerce-billing-fields__field-wrapper
+  .form-row
+  input:focus,
+.appmakerCheckout textarea:focus,
+input#coupon_code:focus {
+  border-color: #4f4f4f !important;
+  outline: none !important;
+}
+
+.appmakerCheckout .woocommerce-info {
+  margin: 1rem 1rem 0.5rem 1rem;
+  background-color: var(--light) !important;
+  color: #000 !important;
+  border-left: 6px solid var(--primary);
+  border-top: none !important;
+  border-bottom: none !important;
+  border-right: none !important;
+}
+
+.appmakerCheckout .woocommerce-info::before {
+  color: var(--primary) !important;
+  padding: 1rem;
+  background-color: #3380ff25;
+  margin-right: 0.5rem;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+}
+
+.appmakerCheckout .woocommerce-info a {
+  color: var(--primary);
+}
+
+/* Add address screen -- end */
+
+/* Order review */
+
+.appmakerCheckout .woocommerce-checkout-review-order-table {
+  text-align: left;
+  background-color: #f9fcff;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.appmakerCheckout .cart_item td:nth-child(2),
+.appmakerCheckout thead tr th:nth-child(2),
+.appmakerCheckout tfoot td {
+  text-align: right;
+}
+
+.appmakerCheckout table thead {
+  font-size: 1.2rem;
+  background-color: var(--light);
+}
+
+.appmakerCheckout td,
+.appmakerCheckout th {
+  border-bottom: 1px solid #ddd;
+  padding: 8px;
+}
+
+.appmakerCheckout .order-total {
+  font-size: 1.2rem;
+}
+
+.appmakerCheckout .order-total td {
+  font-weight: 700;
+}
+
+/* Order review -- end */
+
+/* Payment options */
+
+.wc_payment_methods,
+.wc_payment_method {
+  list-style: none;
+  position: relative;
+}
+
+.wc_payment_method {
+  margin-top: 1rem;
+  background-color: var(--light);
+}
+
+.payment_method_paypal img {
+  max-width: 130px;
+  margin: 0 10px;
+}
+
+.payment_method_eway img {
+  max-width: 200px;
+}
+
+.wc_payment_method input[type="radio"] {
+  position: absolute;
+  top: 1.2rem;
+}
+
+.payment_method_eway input[type="radio"] {
+  top: 0.2rem;
+}
+
+.wc_payment_method label {
+  display: flex;
+  align-items: center;
+  margin-left: 2rem;
+  font-weight: 700;
+}
+
+.appmakerCheckout .star-rating span::before,
+.appmakerCheckout .quantity .plus,
+.appmakerCheckout .quantity .minus,
+.appmakerCheckout p.stars a:hover::after,
+.appmakerCheckout p.stars a::after,
+.appmakerCheckout .star-rating span::before,
+.appmakerCheckout
+  #payment
+  .payment_methods
+  li
+  input[type="radio"]:first-child:checked
+  + label::before {
+  color: #3380ff !important;
+}
+
+#place_order {
+  /* margin-bottom: 200px; */
+}
+
+.lrm-hide-if-logged-in {
+  display: none;
+}
+
+.appmakercheckout-steps-wrapper {
+  overflow: hidden !important;
+}

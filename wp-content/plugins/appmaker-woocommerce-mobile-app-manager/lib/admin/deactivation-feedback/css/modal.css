@@ -1,0 +1,114 @@
+.appmaker_wc-modal {
+    position: fixed;
+    overflow: auto;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    z-index: 100000;
+    display: none;
+    background: rgba(0, 0, 0, 0.6);
+}
+.appmaker_wc-modal.active {
+    display: block;
+}
+.appmaker_wc-modal.active:before {
+    display: block;
+}
+.appmaker_wc-modal .appmaker_wc-modal-dialog {
+    background: transparent;
+    position: absolute;
+    left: 50%;
+    margin-left: -298px;
+    padding-bottom: 30px;
+    top: -100%;
+    z-index: 100001;
+    width: 596px;
+}
+.appmaker_wc-modal.active .appmaker_wc-modal-dialog {
+    top: 10%;
+}
+.appmaker_wc-modal .appmaker_wc-modal-body,
+.appmaker_wc-modal .appmaker_wc-modal-footer {
+    border: 0;
+    background: #fff;
+    padding: 25px 25px 15px;
+}
+.appmaker_wc-modal .appmaker_wc-modal-body {
+    border-bottom: 0;
+}
+.appmaker_wc-modal .appmaker_wc-modal-body p {
+    font-size: 1.3em;
+}
+.appmaker_wc-modal .appmaker_wc-modal-body h2 {
+    font-size: 1.6em;
+    font-weight: bold;
+    margin-top: 0;
+}
+.appmaker_wc-modal .appmaker_wc-modal-footer {
+    border-top: #eeeeee solid 1px;
+    text-align: right;   
+}
+.appmaker_wc-modal .appmaker_wc-modal-footer .button {
+    margin: 0 7px;    
+}
+.appmaker_wc-modal .appmaker_wc-modal-footer .button:first-child {
+    margin: 0;
+}
+.appmaker_wc-modal .appmaker_wc-modal-panel>.notice.inline {
+    margin: 0;
+    display: none;
+}
+.appmaker_wc-modal .appmaker_wc-modal-panel:not(.active) {
+    display: none;
+}
+body.has-appmaker_wc-modal {
+    overflow: hidden;
+}
+.appmaker_wc-modal.appmaker_wc-modal-deactivation-feedback .appmaker_wc-modal-reason-input,
+.appmaker_wc-modal.appmaker_wc-modal-deactivation-feedback .appmaker_wc-modal-internal-message {
+    margin: 3px 0 3px 22px;
+}
+.appmaker_wc-modal.appmaker_wc-modal-deactivation-feedback .appmaker_wc-modal-reason-input input,
+.appmaker_wc-modal.appmaker_wc-modal-deactivation-feedback .appmaker_wc-modal-reason-input textarea,
+.appmaker_wc-modal.appmaker_wc-modal-deactivation-feedback .appmaker_wc-modal-internal-message input,
+.appmaker_wc-modal.appmaker_wc-modal-deactivation-feedback .appmaker_wc-modal-internal-message textarea {
+    width: 100%;
+}
+.appmaker_wc-modal.appmaker_wc-modal-deactivation-feedback li.appmaker_wc-modal-reason.has-internal-message .appmaker_wc-modal-internal-message {
+    border: 1px solid #ccc;
+    padding: 7px;
+    display: none;
+}
+.appmaker_wc-modal.appmaker_wc-modal-deactivation-feedback .appmaker_wc-modal-anonymous-label {
+    padding-top: 15px;
+}
+.appmaker_wc-modal.appmaker_wc-modal-deactivation-feedback .appmaker_wc-modal-panel {
+    margin-top: 0 !important;
+}
+
+@media (max-width: 650px) {
+    .appmaker_wc-modal .appmaker_wc-modal-dialog {
+        margin-left: -50%;
+        box-sizing: border-box;
+        padding-left: 10px;
+        padding-right: 10px;
+        width: 100%;
+    }
+    .appmaker_wc-modal .appmaker_wc-modal-dialog .appmaker_wc-modal-panel>h3>strong {
+        font-size: 1.3em;
+    }
+    .appmaker_wc-modal.appmaker_wc-modal-deactivation-feedback li.appmaker_wc-modal-reason li.appmaker_wc-modal-reason {
+        margin-bottom: 10px;
+    }
+    .appmaker_wc-modal.appmaker_wc-modal-deactivation-feedback li.appmaker_wc-modal-reason li.appmaker_wc-modal-reason .appmaker_wc-modal-reason-input,
+    .appmaker_wc-modal.appmaker_wc-modal-deactivation-feedback li.appmaker_wc-modal-reason li.appmaker_wc-modal-reason .appmaker_wc-modal-internal-message {
+        margin-left: 29px;
+    }
+    .appmaker_wc-modal.appmaker_wc-modal-deactivation-feedback li.appmaker_wc-modal-reason li.appmaker_wc-modal-reason label {
+        display: table;
+    }
+    .appmaker_wc-modal.appmaker_wc-modal-deactivation-feedback li.appmaker_wc-modal-reason li.appmaker_wc-modal-reason label>span {
+        display: table-cell;
+        font-size: 1.3em;
+    }
+}

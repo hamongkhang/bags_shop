@@ -1,0 +1,108 @@
+[21-Oct-2021 02:00:06 UTC] PHP Warning:  array_column() expects parameter 1 to be array, string given in /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/RemoteInboxNotifications/Transformers/ArrayColumn.php on line 27
+[21-Oct-2021 02:00:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/RemoteInboxNotifications/Transformers/Count.php on line 24
+[21-Oct-2021 02:02:11 UTC] PHP Warning:  array_column() expects parameter 1 to be array, string given in /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/RemoteInboxNotifications/Transformers/ArrayColumn.php on line 27
+[21-Oct-2021 02:02:11 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/RemoteInboxNotifications/Transformers/Count.php on line 24
+[21-Oct-2021 08:18:10 UTC] Cơ sở dữ liệu của WordPress gặp lỗi Commands out of sync; you can't run this command now với truy vấn SELECT original, id, block_type, status FROM `wp3p_trp_dictionary_en_us_vi` WHERE block_type = 1 OR block_type = 2 yêu cầu bởi shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, wp_ob_end_flush_all, ob_end_flush, TRP_Translation_Render->translate_page, TRP_Query->get_all_translation_blocks
+[21-Oct-2021 09:14:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_empty() on null in /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/panel-builder/header/cart/view.php(204): woocommerce_mini_cart()
+#3 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/helpers.php(800): require('/home/hmkshopc/...')
+#4 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/components/builder/builder-header-renderer.php(397): blocksy_render_view('/home/hmkshopc/...', NULL, 'Item cart not r...')
+#5 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/components/builder/builder-header-renderer.php(680): Blocksy_Header_Builder_Render->render_single_item('car in /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/woocommerce/cart/mini-cart.php on line 24
+[21-Oct-2021 09:15:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_empty() on null in /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/panel-builder/header/cart/view.php(204): woocommerce_mini_cart()
+#3 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/helpers.php(800): require('/home/hmkshopc/...')
+#4 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/components/builder/builder-header-renderer.php(397): blocksy_render_view('/home/hmkshopc/...', NULL, 'Item cart not r...')
+#5 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/components/builder/builder-header-renderer.php(680): Blocksy_Header_Builder_Render->render_single_item('car in /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/woocommerce/cart/mini-cart.php on line 24
+[21-Oct-2021 09:15:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_empty() on null in /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/panel-builder/header/cart/view.php(204): woocommerce_mini_cart()
+#3 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/helpers.php(800): require('/home/hmkshopc/...')
+#4 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/components/builder/builder-header-renderer.php(397): blocksy_render_view('/home/hmkshopc/...', NULL, 'Item cart not r...')
+#5 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/components/builder/builder-header-renderer.php(680): Blocksy_Header_Builder_Render->render_single_item('car in /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/woocommerce/cart/mini-cart.php on line 24
+[21-Oct-2021 09:16:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_empty() on null in /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/panel-builder/header/cart/view.php(204): woocommerce_mini_cart()
+#3 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/helpers.php(800): require('/home/hmkshopc/...')
+#4 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/components/builder/builder-header-renderer.php(397): blocksy_render_view('/home/hmkshopc/...', NULL, 'Item cart not r...')
+#5 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/components/builder/builder-header-renderer.php(680): Blocksy_Header_Builder_Render->render_single_item('car in /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/woocommerce/cart/mini-cart.php on line 24
+[21-Oct-2021 17:12:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_empty() on null in /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/panel-builder/header/cart/view.php(204): woocommerce_mini_cart()
+#3 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/helpers.php(800): require('/home/hmkshopc/...')
+#4 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/components/builder/builder-header-renderer.php(397): blocksy_render_view('/home/hmkshopc/...', NULL, 'Item cart not r...')
+#5 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/components/builder/builder-header-renderer.php(680): Blocksy_Header_Builder_Render->render_single_item('car in /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/woocommerce/cart/mini-cart.php on line 24
+[21-Oct-2021 18:59:06 UTC] PHP Warning:  array_column() expects parameter 1 to be array, string given in /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/RemoteInboxNotifications/Transformers/ArrayColumn.php on line 27
+[21-Oct-2021 18:59:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/RemoteInboxNotifications/Transformers/Count.php on line 24
+[22-Oct-2021 02:05:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_empty() on null in /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/panel-builder/header/cart/view.php(204): woocommerce_mini_cart()
+#3 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/helpers.php(800): require('/home/hmkshopc/...')
+#4 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/components/builder/builder-header-renderer.php(397): blocksy_render_view('/home/hmkshopc/...', NULL, 'Item cart not r...')
+#5 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/components/builder/builder-header-renderer.php(680): Blocksy_Header_Builder_Render->render_single_item('car in /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/woocommerce/cart/mini-cart.php on line 24
+[22-Oct-2021 02:06:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_empty() on null in /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/panel-builder/header/cart/view.php(204): woocommerce_mini_cart()
+#3 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/helpers.php(800): require('/home/hmkshopc/...')
+#4 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/components/builder/builder-header-renderer.php(397): blocksy_render_view('/home/hmkshopc/...', NULL, 'Item cart not r...')
+#5 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/components/builder/builder-header-renderer.php(680): Blocksy_Header_Builder_Render->render_single_item('car in /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/woocommerce/cart/mini-cart.php on line 24
+[22-Oct-2021 03:11:17 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Features/Marketing.php on line 270
+[03-Nov-2021 17:34:03 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/packages/woocommerce-admin/src/Features/Marketing.php on line 270
+[03-Nov-2021 17:53:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_settings() on null in /home/hmkshopc/public_html/wp/wp-content/plugins/appmaker-woocommerce-mobile-app-manager/lib/third-party-support/misc/class-appmaker-wc-translatepress.php:18
+Stack trace:
+#0 /home/hmkshopc/public_html/wp/wp-content/plugins/appmaker-woocommerce-mobile-app-manager/lib/third-party-support/misc/class-appmaker-wc-translatepress.php(93): APPMAKER_WC_TRANSLATEPRESS::init()
+#1 /home/hmkshopc/public_html/wp/wp-content/plugins/appmaker-woocommerce-mobile-app-manager/lib/class-appmaker-wc-general-hooks.php(79): require_once('/home/hmkshopc/...')
+#2 /home/hmkshopc/public_html/wp/wp-content/plugins/appmaker-woocommerce-mobile-app-manager/lib/class-appmaker-wc-general-hooks.php(498): APPMAKER_WC_General_hooks->__construct()
+#3 /home/hmkshopc/public_html/wp/wp-content/plugins/appmaker-woocommerce-mobile-app-manager/plugin.php(72): require_once('/home/hmkshopc/...')
+#4 /home/hmkshopc/public_html/wp/wp-includes/class-wp-hook.php(303): APPMAKER_WC::init('')
+#5 in /home/hmkshopc/public_html/wp/wp-content/plugins/appmaker-woocommerce-mobile-app-manager/lib/third-party-support/misc/class-appmaker-wc-translatepress.php on line 18
+[03-Nov-2021 17:54:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_settings() on null in /home/hmkshopc/public_html/wp/wp-content/plugins/appmaker-woocommerce-mobile-app-manager/lib/third-party-support/misc/class-appmaker-wc-translatepress.php:18
+Stack trace:
+#0 /home/hmkshopc/public_html/wp/wp-content/plugins/appmaker-woocommerce-mobile-app-manager/lib/third-party-support/misc/class-appmaker-wc-translatepress.php(93): APPMAKER_WC_TRANSLATEPRESS::init()
+#1 /home/hmkshopc/public_html/wp/wp-content/plugins/appmaker-woocommerce-mobile-app-manager/lib/class-appmaker-wc-general-hooks.php(79): require_once('/home/hmkshopc/...')
+#2 /home/hmkshopc/public_html/wp/wp-content/plugins/appmaker-woocommerce-mobile-app-manager/lib/class-appmaker-wc-general-hooks.php(498): APPMAKER_WC_General_hooks->__construct()
+#3 /home/hmkshopc/public_html/wp/wp-content/plugins/appmaker-woocommerce-mobile-app-manager/plugin.php(72): require_once('/home/hmkshopc/...')
+#4 /home/hmkshopc/public_html/wp/wp-includes/class-wp-hook.php(303): APPMAKER_WC::init('')
+#5 in /home/hmkshopc/public_html/wp/wp-content/plugins/appmaker-woocommerce-mobile-app-manager/lib/third-party-support/misc/class-appmaker-wc-translatepress.php on line 18
+[03-Nov-2021 17:55:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_settings() on null in /home/hmkshopc/public_html/wp/wp-content/plugins/appmaker-woocommerce-mobile-app-manager/lib/third-party-support/misc/class-appmaker-wc-translatepress.php:18
+Stack trace:
+#0 /home/hmkshopc/public_html/wp/wp-content/plugins/appmaker-woocommerce-mobile-app-manager/lib/third-party-support/misc/class-appmaker-wc-translatepress.php(93): APPMAKER_WC_TRANSLATEPRESS::init()
+#1 /home/hmkshopc/public_html/wp/wp-content/plugins/appmaker-woocommerce-mobile-app-manager/lib/class-appmaker-wc-general-hooks.php(79): require_once('/home/hmkshopc/...')
+#2 /home/hmkshopc/public_html/wp/wp-content/plugins/appmaker-woocommerce-mobile-app-manager/lib/class-appmaker-wc-general-hooks.php(498): APPMAKER_WC_General_hooks->__construct()
+#3 /home/hmkshopc/public_html/wp/wp-content/plugins/appmaker-woocommerce-mobile-app-manager/plugin.php(72): require_once('/home/hmkshopc/...')
+#4 /home/hmkshopc/public_html/wp/wp-includes/class-wp-hook.php(303): APPMAKER_WC::init('')
+#5 in /home/hmkshopc/public_html/wp/wp-content/plugins/appmaker-woocommerce-mobile-app-manager/lib/third-party-support/misc/class-appmaker-wc-translatepress.php on line 18
+[03-Nov-2021 17:56:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_settings() on null in /home/hmkshopc/public_html/wp/wp-content/plugins/appmaker-woocommerce-mobile-app-manager/lib/third-party-support/misc/class-appmaker-wc-translatepress.php:18
+Stack trace:
+#0 /home/hmkshopc/public_html/wp/wp-content/plugins/appmaker-woocommerce-mobile-app-manager/lib/third-party-support/misc/class-appmaker-wc-translatepress.php(93): APPMAKER_WC_TRANSLATEPRESS::init()
+#1 /home/hmkshopc/public_html/wp/wp-content/plugins/appmaker-woocommerce-mobile-app-manager/lib/class-appmaker-wc-general-hooks.php(79): require_once('/home/hmkshopc/...')
+#2 /home/hmkshopc/public_html/wp/wp-content/plugins/appmaker-woocommerce-mobile-app-manager/lib/class-appmaker-wc-general-hooks.php(498): APPMAKER_WC_General_hooks->__construct()
+#3 /home/hmkshopc/public_html/wp/wp-content/plugins/appmaker-woocommerce-mobile-app-manager/plugin.php(72): require_once('/home/hmkshopc/...')
+#4 /home/hmkshopc/public_html/wp/wp-includes/class-wp-hook.php(303): APPMAKER_WC::init('')
+#5 in /home/hmkshopc/public_html/wp/wp-content/plugins/appmaker-woocommerce-mobile-app-manager/lib/third-party-support/misc/class-appmaker-wc-translatepress.php on line 18
+[04-Nov-2021 01:39:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hmkshopc/public_html/wp/wp-content/plugins/appmysite/appmysite.php on line 789
+[04-Nov-2021 04:42:57 UTC] WordPress database error Commands out of sync; you can't run this command now for query INSERT INTO `wp3p_trp_gettext_en_us` ( original, translated, domain, status ) VALUES ( 'WordPress database error %1$s for query %2$s made by %3$s', '', 'default', '0')  made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run, __, translate, apply_filters('gettext'), WP_Hook->apply_filters, TRP_Translation_Manager->process_gettext_strings, TRP_Query->insert_gettext_strings
+[04-Nov-2021 04:42:57 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM wp3p_options WHERE option_name = 'trp_db_errors' LIMIT 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run, __, translate, apply_filters('gettext'), WP_Hook->apply_filters, TRP_Translation_Manager->process_gettext_strings, TRP_Query->insert_gettext_strings, TRP_Query->maybe_record_automatic_translation_error, TRP_Error_Manager->record_error, get_option
+[04-Nov-2021 04:42:57 UTC] WordPress database error Commands out of sync; you can't run this command now for query INSERT INTO `wp3p_options` (`option_name`, `option_value`, `autoload`) VALUES ('trp_db_errors', 'a:2:{s:13:\"notifications\";a:1:{s:30:\"disable_automatic_translations\";a:2:{s:15:\"notification_id\";s:40:\"disable_automatic_translations1636000977\";s:7:\"message\";s:201:\"<strong>TranslatePress</strong> encountered SQL errors. <a href=\"https://hamongkhang.space/wp/wp-admin/admin.php?page=trp_error_manager\" title=\"View TranslatePress SQL Errors\">Check out the errors</a>.\";}}s:6:\"errors\";a:1:{i:0;a:6:{s:10:\"last_error\";s:52:\"Commands out of sync; you can\'t run this command now\";s:30:\"disable_automatic_translations\";b:1;s:3:\"url\";s:96:\"https://hamongkhang.space/wp/wp-content/plugins/facebook-messenger-customer-chat/images/logo.png\";s:7:\"details\";s:38:\"Error running insert_gettext_strings()\";s:9:\"date_time\";s:19:\"2021-11-04 04:42:57\";s:9:\"timestamp\";i:1636000977;}}}', 'yes') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`) made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run, __, translate, apply_filters('gettext'), WP_Hook->apply_filters, TRP_Translation_Manager->process_gettext_strings, TRP_Query->insert_gettext_strings, TRP_Query->maybe_record_automatic_translation_error, TRP_Error_Manager->record_error, update_option, add_option
+[04-Nov-2021 04:42:57 UTC] WordPress database error Commands out of sync; you can't run this command now for query INSERT INTO `wp3p_options` (`option_name`, `option_value`, `autoload`) VALUES ('trp_db_errors', 'a:2:{s:13:\"notifications\";a:1:{s:30:\"disable_automatic_translations\";a:2:{s:15:\"notification_id\";s:40:\"disable_automatic_translations1636000977\";s:7:\"message\";s:201:\"<strong>TranslatePress</strong> encountered SQL errors. <a href=\"https://hamongkhang.space/wp/wp-admin/admin.php?page=trp_error_manager\" title=\"View TranslatePress SQL Errors\">Check out the errors</a>.\";}}s:6:\"errors\";a:1:{i:0;a:6:{s:10:\"last_error\";s:52:\"Commands out of sync; you can\'t run this command now\";s:30:\"disable_automatic_translations\";b:1;s:3:\"url\";s:96:\"https://hamongkhang.space/wp/wp-content/plugins/facebook-messenger-customer-chat/images/logo.png\";s:7:\"details\";s:38:\"Error running insert_gettext_strings()\";s:9:\"date_time\";s:19:\"2021-11-04 04:42:57\";s:9:\"timestamp\";i:1636000977;}}}', 'yes') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`) made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run
+[04-Nov-2021 04:42:57 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT 
+	*
+FROM wp3p_aioseo_notifications
+WHERE 1 = 1 AND
+	`notification_name` = 'deprecated-filters-v2'
+/* 1 = 1 */ made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, AIOSEO\Plugin\Common\Utils\Filter->flagDeprecated, AIOSEO\Plugin\Common\Models\Notification::getNotificationByName, AIOSEO\Plugin\Common\Utils\Database->run

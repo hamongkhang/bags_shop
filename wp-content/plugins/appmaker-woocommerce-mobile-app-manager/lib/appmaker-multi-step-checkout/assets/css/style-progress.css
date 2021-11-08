@@ -1,0 +1,273 @@
+/* prefixed by https://autoprefixer.github.io (PostCSS: v7.0.23, autoprefixer: v9.7.3) */
+
+.appmakercheckout-tabs-wrapper {
+	width: 100%;
+	display: block;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+
+.appmakercheckout-steps-wrapper {
+	padding-bottom: 100px;
+}
+
+.appmakercheckout-tabs-wrapper .appmakercheckout-tabs-list {
+	background: #f9f9f9;
+	margin: 0;
+	padding: 0 !important;
+}
+
+.appmakercheckout-tabs-wrapper .appmakercheckout-tab-item {
+	font-size: 13px !important;
+	line-height: 13px !important;
+	text-align: center;
+	text-transform: uppercase;
+	position: relative;
+	display: table-cell;
+	float: left;
+	padding-top: 0px;
+	padding-bottom: 47px;
+	-webkit-transition: all 0.3s ease 0s;
+	-o-transition: all 0.3s ease 0s;
+	transition: all 0.3s ease 0s;
+	width: 25%;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.appmakercheckout-1-tabs .appmakercheckout-tab-item {
+	width: 100%;
+}
+
+.appmakercheckout-tabs-list.appmakercheckout-2-tabs .appmakercheckout-tab-item {
+	width: 50%;
+}
+
+.appmakercheckout-tabs-list.appmakercheckout-3-tabs .appmakercheckout-tab-item {
+	width: 33%;
+}
+
+.appmakercheckout-tabs-list.appmakercheckout-4-tabs .appmakercheckout-tab-item {
+	width: 25%;
+}
+
+.appmakercheckout-tabs-list.appmakercheckout-5-tabs .appmakercheckout-tab-item {
+	width: 20%;
+}
+
+.appmakercheckout-tabs-list.appmakercheckout-6-tabs .appmakercheckout-tab-item {
+	width: 16.6%;
+}
+
+.appmakercheckout-tabs-wrapper .appmakercheckout-tab-item:before {
+	display: block;
+	content: "";
+	border-bottom: 2px solid transparent;
+	height: 0;
+	position: absolute;
+	top: 0px;
+	left: 0;
+	right: 0;
+	-webkit-transition: border-color 0.3s;
+	-o-transition: border-color 0.3s;
+	transition: border-color 0.3s;
+}
+
+.appmakercheckout-tabs-wrapper .appmakercheckout-tab-item .appmakercheckout-tab-number {
+	display: inline-block;
+	line-height: 28px;
+	text-align: center;
+	vertical-align: middle;
+	width: 30px;
+	min-width: 30px;
+	min-height: 30px;
+	height: 30px;
+	margin-top: -14px;
+	color: #999;
+	background: #fff;
+	border-radius: 50%;
+	position: relative;
+	-webkit-transition: color 0.3s, background 0.3s;
+	-o-transition: color 0.3s, background 0.3s;
+	transition: color 0.3s, background 0.3s;
+	font-size: 16px;
+	font-weight: 400;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.appmakercheckout-tabs-wrapper .appmakercheckout-tab-item .number-text {
+	-webkit-transition: color 0.3s;
+	-o-transition: color 0.3s;
+	transition: color 0.3s;
+}
+
+.appmakercheckout-tabs-wrapper .appmakercheckout-tab-text {
+	display: none;
+	font-size: 13px;
+	line-height: 1.25;
+	font-weight: normal;
+	letter-spacing: 0.3px;
+	text-transform: capitalize;
+	padding-top: 8px;
+	white-space: nowrap;
+	position: absolute;
+	top: 15px;
+	width: 100%;
+	text-align: center;
+}
+
+.appmakercheckout-tab-item:first-child .appmakercheckout-tab-text {
+	position: absolute;
+}
+
+.appmakercheckout-tab-item:last-child .appmakercheckout-tab-text {
+	position: absolute;
+	left: auto;
+	-webkit-transform: translate(0,0);
+	    -ms-transform: translate(0,0);
+	        transform: translate(0,0);
+}
+
+@media screen and (min-width: 767px) {
+
+	.appmakercheckout-tabs-wrapper .appmakercheckout-tabs-list {
+		display: block;
+	}
+
+	.appmakercheckout-tabs-wrapper .appmakercheckout-tab-item {
+		display: block;
+		vertical-align: top;
+		padding-bottom: 20px;
+	}
+
+	.appmakercheckout-tabs-wrapper .appmakercheckout-tab-item .appmakercheckout-tab-text {
+		display: block;
+		position: relative;
+		top: auto;
+		left: auto;
+		right: auto;
+	}
+
+	.appmakercheckout-tabs-wrapper .appmakercheckout-tab-item .appmakercheckout-tab-number {
+		margin-top: -14px;
+	}
+}
+
+@media screen and (min-width: 1200px) {
+	.appmakercheckout-tabs-wrapper .appmakercheckout-tab-text {
+		font-size: 13px;
+	}
+}
+
+.appmakercheckout-tabs-wrapper .appmakercheckout-nav-text {
+	color: #555;
+}
+
+.appmakercheckout-tabs-wrapper .appmakercheckout-nav-text a {
+	color: #e23636;
+}
+
+.appmakercheckout-tabs-wrapper .appmakercheckout-nav-text,
+.appmakercheckout-tabs-wrapper .appmakercheckout-nav-buttons {
+	border-color: #d9d9d9;
+}
+
+.woocommerce-checkout .woocommerce .appmakercheckout-tabs-wrapper form label.error {
+	color: #e23636 !important;
+}
+
+.appmakercheckout-tabs-wrapper .appmakercheckout-tabs-list {
+	font-weight: 600;
+}
+
+.appmakercheckout-tabs-wrapper .appmakercheckout-tab-item {
+	color: #aaa;
+}
+
+.appmakercheckout-tabs-wrapper .appmakercheckout-tab-item .appmakercheckout-tab-number {
+	color: #000;
+	background: #fff;
+	border: 1px solid #ccc;
+}
+
+.appmakercheckout-tabs-wrapper .appmakercheckout-tab-item.current {
+	color: #000;
+}
+
+.appmakercheckout-tabs-wrapper .appmakercheckout-tab-item.current .appmakercheckout-tab-number {
+	color: #000;
+	background: #fff;
+	border: 2px solid #ccc;
+}
+
+.appmakercheckout-tabs-wrapper .appmakercheckout-tab-item.current .appmakercheckout-tab-text {
+	display: block;
+}
+
+.appmakercheckout-tabs-wrapper .appmakercheckout-tab-item:before {
+	border-bottom-color: #c9c9c9;
+}
+
+.appmakercheckout-tabs-wrapper .appmakercheckout-tab-item.visited:before {
+	border-bottom-color: #000;
+}
+
+.appmakercheckout-tabs-wrapper .appmakercheckout-tab-item .number-text {
+	top: 1px;
+}
+
+.appmakercheckout-tabs-wrapper .tab-completed-icon {
+	top: 2px;
+}
+
+.appmakercheckout-nav-wrapper {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: end;
+	-ms-flex-pack: end;
+	justify-content: flex-end;
+	margin-top: 1em;
+	width: calc( 100% + 4px );
+	clear: both;
+}
+
+button#appmakercheckout-back-to-cart {
+	margin-right: auto;
+}
+
+.woocommerce .appmakercheckout-nav-wrapper button.appmakercheckout-nav-button {
+	margin-right: 2px;
+	margin-left: 2px;
+}
+
+.woocommerce .appmakercheckout-nav-wrapper button#appmakercheckout-prev, .woocommerce .appmakercheckout-nav-wrapper button#appmakercheckout-next, .woocommerce .appmakercheckout-nav-wrapper button#appmakercheckout-skip-login {
+	display: none !important;
+}
+
+.woocommerce .appmakercheckout-nav-wrapper button#appmakercheckout-prev.current, .woocommerce .appmakercheckout-nav-wrapper button#appmakercheckout-next.current, .woocommerce .appmakercheckout-nav-wrapper button#appmakercheckout-skip-login.current  {
+	display: inline-block !important;
+}
+
+.appmakercheckout-step-item {
+	display: none !important;
+}
+
+.appmakercheckout-step-item.current {
+	display: block !important;
+}
+
+.woocommerce-checkout form.login .wc-social-login {
+	display: block !important;
+}
+
+.woocommerce-checkout .appmakercheckout-step-item #order_review,
+.woocommerce-checkout .appmakercheckout-step-item #order_review_heading {
+	width: 100%;
+}
+
+@-moz-document url-prefix() {
+	.sq-input {
+		height: 60px !important;
+	}
+}

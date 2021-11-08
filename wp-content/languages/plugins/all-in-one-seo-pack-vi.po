@@ -1,0 +1,928 @@
+# Translation of Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-22 03:46:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release)\n"
+
+#: languages/aioseo-lite.php:2298 dist/Lite/assets/js/about-AboutUs-vue.js:1
+#: dist/Lite/assets/js/chunk-common.js:1
+msgid "Not Installed"
+msgstr "Chưa cài đặt"
+
+#: languages/aioseo-lite.php:1371 languages/aioseo-pro.php:239
+#: dist/Lite/assets/js/post-settings.js:1
+#: dist/Lite/assets/js/search-appearance-Archives-vue.js:1
+#: dist/Lite/assets/js/search-appearance-ContentTypes-vue.js:1
+#: dist/Lite/assets/js/search-appearance-GlobalSettings-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Media-vue.js:1
+#: dist/Lite/assets/js/search-appearance-partials-Advanced-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Taxonomies-vue.js:1
+msgid "Keywords"
+msgstr "Từ khóa"
+
+#: languages/aioseo-lite.php:133 dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/posts-table.js:1
+msgid "Description:"
+msgstr "Mô tả:"
+
+#: languages/aioseo-lite.php:3319 dist/Lite/assets/js/about-AboutUs-vue.js:1
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: languages/aioseo-lite.php:3316 dist/Lite/assets/js/about-AboutUs-vue.js:1
+msgid "Install Plugin"
+msgstr "Cài đặt tiện ích"
+
+#: app/Common/Admin/Admin.php:178 languages/aioseo-lite.php:12
+#: dist/Lite/assets/js/about.js:1
+msgid "About Us"
+msgstr "Giới thiệu"
+
+#: app/Common/HeadlineAnalyzer/HeadlineAnalyzer.php:597
+#: languages/aioseo-lite.php:927 dist/Lite/assets/js/chunk-common.js:1
+msgid "never"
+msgstr "không bao giờ"
+
+#: languages/aioseo-lite.php:924 dist/Lite/assets/js/chunk-common.js:1
+msgid "yearly"
+msgstr "hàng năm"
+
+#: languages/aioseo-lite.php:912 dist/Lite/assets/js/chunk-common.js:1
+msgid "hourly"
+msgstr "hàng giờ"
+
+#: languages/aioseo-pro.php:169
+msgid "Schema Settings"
+msgstr "Schema Cài đặt"
+
+#: languages/aioseo-lite.php:547 dist/Lite/assets/js/chunk-common.js:1
+msgid "Package Tracking"
+msgstr "Theo dõi "
+
+#: languages/aioseo-lite.php:544 dist/Lite/assets/js/chunk-common.js:1
+msgid "Roadside Assistance"
+msgstr "Hỗ trợ "
+
+#: languages/aioseo-lite.php:538 dist/Lite/assets/js/chunk-common.js:1
+msgid "Emergency"
+msgstr "Trường hợp khẩn cấp"
+
+#: languages/aioseo-lite.php:535 dist/Lite/assets/js/chunk-common.js:1
+msgid "Credit Card Support"
+msgstr "Hỗ trợ thẻ tín dụng"
+
+#: languages/aioseo-lite.php:532 dist/Lite/assets/js/chunk-common.js:1
+msgid "Reservations"
+msgstr "Đặt phòng"
+
+#: languages/aioseo-lite.php:529 dist/Lite/assets/js/chunk-common.js:1
+msgid "Sales"
+msgstr "Bán hàng"
+
+#: languages/aioseo-lite.php:526 dist/Lite/assets/js/chunk-common.js:1
+msgid "Bill Payment"
+msgstr "Thanh toán hóa đơn"
+
+#: languages/aioseo-lite.php:523 dist/Lite/assets/js/chunk-common.js:1
+msgid "Billing Support"
+msgstr "Hỗ trợ thanh toán"
+
+#: languages/aioseo-lite.php:520 dist/Lite/assets/js/chunk-common.js:1
+msgid "Technical Support"
+msgstr "Hỗ trợ kỹ thuật"
+
+#: languages/aioseo-lite.php:356
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+#: dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/chunk-common.js:1
+msgid "Customer Support"
+msgstr "Hỗ trợ khách hàng"
+
+#: languages/aioseo-lite.php:200 languages/aioseo-pro.php:35
+#: dist/Lite/assets/js/post-settings.js:1
+#: dist/Lite/assets/js/search-appearance-GlobalSettings-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-AdditionalInformation-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+msgid "Phone Number"
+msgstr "Số điện thoại:"
+
+#: languages/aioseo-lite.php:4084
+#: dist/Lite/assets/js/setup-wizard-AdditionalInformation-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+msgid "Organization Name"
+msgstr "Tên tổ chức:"
+
+#: languages/aioseo-lite.php:244 dist/Lite/assets/js/chunk-common.js:1
+msgid "Archive"
+msgstr "Lưu trữ"
+
+#: app/Common/Utils/Tags.php:329 languages/aioseo-lite.php:3940
+#: languages/aioseo-pro.php:266
+#: dist/Lite/assets/js/settings-Breadcrumbs-vue.js:1
+#: dist/Lite/assets/js/setup-wizard.js:1
+msgid "Category"
+msgstr "Chuyên mục"
+
+#: app/Common/Breadcrumbs/Breadcrumbs.php:267
+msgid "Page"
+msgstr "Trang"
+
+#: app/Common/Admin/Notices/Review.php:93 languages/aioseo-lite.php:1896
+#: dist/Lite/assets/js/chunk-common.js:1
+msgid "No thanks"
+msgstr "Không, cảm ơn"
+
+#: languages/aioseo-lite.php:4391
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+msgid "Exclude Images"
+msgstr "Không bao gồm ảnh"
+
+#: app/Common/Admin/Dashboard.php:33
+msgid "SEO News"
+msgstr "Tin tức SEO"
+
+#: languages/aioseo-lite.php:4992
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Get Started"
+msgstr "Bắt đầu"
+
+#: languages/aioseo-lite.php:1942 dist/Lite/assets/js/chunk-common.js:1
+msgid "Upgrade"
+msgstr "Nâng cấp"
+
+#: languages/aioseo-lite.php:3902
+#: dist/Lite/assets/js/seo-analysis-AnalyzeCompetitorSite-vue.js:1
+#: dist/Lite/assets/js/seo-analysis-Main-vue.js:1
+msgid "Analyze"
+msgstr "Phân tích"
+
+#: languages/aioseo-lite.php:4059
+#: dist/Lite/assets/js/tools-BadBotBlocker-vue.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+msgid "Block Bad Bots using HTTP"
+msgstr "Chặn các Bad Bot sử dụng HTTP"
+
+#: languages/aioseo-lite.php:4062
+#: dist/Lite/assets/js/tools-BadBotBlocker-vue.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+msgid "Block Referral Spam using HTTP"
+msgstr "Chặn Referral Spam sử dụng HTTP"
+
+#: languages/aioseo-lite.php:4068
+#: dist/Lite/assets/js/tools-BadBotBlocker-vue.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+msgid "Use Custom Blocklists"
+msgstr "Sử dụng Tùy chỉnh Danh sách chặn"
+
+#: languages/aioseo-lite.php:50
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+#: dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/redirects-pro-ImportExport-vue.js:1
+#: dist/Lite/assets/js/redirects-pro-partials-ExportRedirects-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Media-vue.js:1
+#: dist/Lite/assets/js/search-appearance.js:1
+msgid "Image SEO"
+msgstr "Hình ảnh SEO"
+
+#. Translators: This is an action link users can click to purchase a license
+#. for All in One SEO Pro.
+#: app/Lite/Admin/Admin.php:42 app/Lite/Admin/Admin.php:68
+#: app/Lite/Main/Filters.php:64 languages/aioseo-lite.php:2207
+#: dist/Lite/assets/js/chunk-common.js:1
+msgid "Upgrade to Pro"
+msgstr "Nâng cấp đến chuyên nghiệp"
+
+#. Translators: This is an action link users can click to open our general
+#. documentation page.
+#: app/Lite/Main/Filters.php:59
+msgid "Documentation"
+msgstr "Tài liệu hướng dẫn"
+
+#. Translators: This is an action link users can click to open the General
+#. Settings menu.
+#. Translators: This is an action link users can click to open the General
+#. Settings menu.
+#: app/Common/Admin/Admin.php:510 app/Lite/Main/Filters.php:49
+#: languages/aioseo-lite.php:4109
+#: dist/Lite/assets/js/tools-ImportExport-vue.js:1
+#: dist/Lite/assets/js/tools-partials-ImportOthers-vue.js:1
+msgid "SEO Settings"
+msgstr "Thiết lập SEO"
+
+#: languages/aioseo-lite.php:3158 dist/Lite/assets/js/about-Main-vue.js:1
+msgid "About"
+msgstr "Về chúng tôi"
+
+#: languages/aioseo-lite.php:3061 languages/aioseo-pro.php:44
+#: dist/Lite/assets/js/chunk-common.js:1 dist/Lite/assets/js/setup-wizard.js:1
+msgid "License Key"
+msgstr "Mã Bản quyền"
+
+#: languages/aioseo-lite.php:3528
+#: dist/Lite/assets/js/social-networks-Facebook-vue.js:1
+msgid "Facebook Admin ID"
+msgstr "ID Quản trị Facebook"
+
+#: languages/aioseo-lite.php:3531
+#: dist/Lite/assets/js/social-networks-Facebook-vue.js:1
+msgid "Facebook App ID"
+msgstr "ID Ứng dụng Facebook"
+
+#: languages/aioseo-lite.php:4331
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-RssSitemap-vue.js:1
+msgid "Enable Sitemap Indexes"
+msgstr "Kích hoạt chỉ mục sơ đồ trang"
+
+#: app/Common/Views/sitemap/html/widget-options.php:69
+#: languages/aioseo-lite.php:1292 languages/aioseo-pro.php:361
+#: dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-HtmlSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemapActivate-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-RssSitemap-vue.js:1
+msgid "Post Types"
+msgstr "Loại bài đăng"
+
+#: app/Common/Views/sitemap/html/widget-options.php:92
+#: languages/aioseo-lite.php:46 dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/search-appearance.js:1
+#: dist/Lite/assets/js/settings-Breadcrumbs-vue.js:1
+#: dist/Lite/assets/js/settings-lite-Breadcrumbs-vue.js:1
+#: dist/Lite/assets/js/settings-pro-Breadcrumbs-vue.js:1
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-HtmlSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-RssSitemap-vue.js:1
+msgid "Taxonomies"
+msgstr "Nguyên tắc phân loại"
+
+#: languages/aioseo-lite.php:2327 dist/Lite/assets/js/chunk-common.js:1
+msgid "Page URL"
+msgstr "URL trang"
+
+#: languages/aioseo-lite.php:2317 dist/Lite/assets/js/chunk-common.js:1
+msgid "Last Modified"
+msgstr "Chỉnh sửa lần cuối"
+
+#: languages/aioseo-lite.php:4373 languages/aioseo-pro.php:391
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "Additional Pages"
+msgstr "Các trang bổ sung"
+
+#: languages/aioseo-lite.php:2395 dist/Lite/assets/js/chunk-common.js:1
+msgid "Add URL"
+msgstr "Thêm URL"
+
+#: app/Common/Sitemap/Output.php:32
+msgid "dynamically"
+msgstr "động"
+
+#: app/Common/Tools/SystemStatus.php:82 app/Common/Tools/SystemStatus.php:86
+#: app/Common/Tools/SystemStatus.php:205 app/Common/Tools/SystemStatus.php:221
+#: app/Common/Tools/SystemStatus.php:225 app/Common/Tools/SystemStatus.php:229
+#: languages/aioseo-lite.php:933 dist/Lite/assets/js/chunk-common.js:1
+msgid "Yes"
+msgstr "Có"
+
+#: app/Common/Tools/SystemStatus.php:82 app/Common/Tools/SystemStatus.php:86
+#: app/Common/Tools/SystemStatus.php:205 app/Common/Tools/SystemStatus.php:221
+#: app/Common/Tools/SystemStatus.php:225 app/Common/Tools/SystemStatus.php:229
+#: languages/aioseo-lite.php:930 dist/Lite/assets/js/chunk-common.js:1
+msgid "No"
+msgstr "Không"
+
+#: languages/aioseo-lite.php:1141 dist/Lite/assets/js/chunk-common.js:1
+msgid "Featured Image"
+msgstr "Ảnh chức năng cho bài viết"
+
+#: languages/aioseo-lite.php:675 dist/Lite/assets/js/chunk-common.js:1
+msgid "Profile"
+msgstr "Cá nhân"
+
+#: languages/aioseo-lite.php:148 dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/posts-table.js:1
+msgid "Cancel"
+msgstr "Hủy"
+
+#: languages/aioseo-lite.php:142 dist/Lite/assets/js/link-format-block.js:2
+#: dist/Lite/assets/js/posts-table.js:1
+#: dist/Lite/assets/js/redirects-pro-Redirects-vue.js:1
+msgid "Edit"
+msgstr "Sửa"
+
+#: languages/aioseo-lite.php:303
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+#: dist/Lite/assets/js/about-Main-vue.js:1
+msgid "XML Sitemap"
+msgstr "Sơ đồ trang XML"
+
+#: app/Common/Tools/SystemStatus.php:73
+msgid "Site URL"
+msgstr "URL trang"
+
+#: app/Common/Tools/SystemStatus.php:69
+msgid "Home URL"
+msgstr "URL trang chủ"
+
+#: app/Common/Tools/SystemStatus.php:81
+msgid "Multisite"
+msgstr "Nhiều trang"
+
+#: app/Common/Tools/SystemStatus.php:245 languages/aioseo-lite.php:4260
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/tools-SystemStatus-vue.js:1
+msgid "Active Theme"
+msgstr "Chủ đề hoạt động"
+
+#: languages/aioseo-lite.php:4251 dist/Lite/assets/js/link-format-block.js:2
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/tools-SystemStatus-vue.js:1
+msgid "Submit"
+msgstr "Gửi"
+
+#: languages/aioseo-lite.php:873 dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/tools-RobotsEditor-vue.js:1
+msgid "User Agent"
+msgstr "Đại lý người dùng"
+
+#: languages/aioseo-lite.php:4444 dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/tools-RobotsEditor-vue.js:1
+msgid "Directory Path"
+msgstr "Đường dẫn thư mục"
+
+#: languages/aioseo-lite.php:4453 dist/Lite/assets/js/tools-Main-vue.js:1
+#: dist/Lite/assets/js/tools-RobotsEditor-vue.js:1
+msgid "Add Rule"
+msgstr "Thêm Quy tắc"
+
+#: languages/aioseo-lite.php:4349
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+msgid "Allows you to specify the maximum number of posts in a sitemap (up to 50,000)."
+msgstr "Cho phép bạn chỉ định số bài đăng tối đa trong một sơ đồ trang (lên đến 50.000)."
+
+#: languages/aioseo-lite.php:4367 languages/aioseo-pro.php:367
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-HtmlSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemapActivate-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-RssSitemap-vue.js:1
+msgid "Select which Post Types appear in your sitemap."
+msgstr "Chọn Loại Bài Đăng xuất hiện trong sơ đồ trang của bạn."
+
+#: languages/aioseo-lite.php:4358
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-RssSitemap-vue.js:1
+msgid "Include Date Archives in your sitemap."
+msgstr "Bao gồm Ngày Lưu Trữ trong sơ đồ trang của bạn."
+
+#: languages/aioseo-lite.php:4364
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-RssSitemap-vue.js:1
+msgid "Include Author Archives in your sitemap."
+msgstr "Bao gồm Tác Giả Lưu Trữ trong sơ đồ trang của bạn."
+
+#: languages/aioseo-lite.php:1974 languages/aioseo-pro.php:166
+#: dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/search-appearance-Advanced-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/settings-Advanced-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-GeneralSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-HtmlSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemapActivate-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+#: dist/Lite/assets/js/social-networks-Facebook-vue.js:1
+msgid "Advanced Settings"
+msgstr "Cài đặt nâng cao"
+
+#: languages/aioseo-lite.php:4007 dist/Lite/assets/js/dashboard-Main-vue.js:1
+msgid "View the Changelog"
+msgstr "Xem Nhật ký các thay đổi"
+
+#: languages/aioseo-lite.php:4010 dist/Lite/assets/js/dashboard-Main-vue.js:1
+msgid "Watch video tutorials"
+msgstr "Xem hướng dẫn video"
+
+#: languages/aioseo-lite.php:4013 dist/Lite/assets/js/dashboard-Main-vue.js:1
+msgid "Getting started? Read the Beginners Guide"
+msgstr "Mới bắt đầu? Đọc Hướng dẫn cho người mới"
+
+#: languages/aioseo-lite.php:5058
+#: dist/Lite/assets/js/settings-WebmasterTools-vue.js:1
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: app/Common/Admin/Admin.php:344 app/Common/Admin/SiteHealth.php:91
+msgid "SEO"
+msgstr "SEO"
+
+#: languages/aioseo-lite.php:2030 dist/Lite/assets/js/chunk-common.js:1
+msgid "Performance"
+msgstr "Hiệu suất"
+
+#: languages/aioseo-lite.php:316
+#: dist/Lite/assets/js/about-lite-LiteVsPro-vue.js:1
+#: dist/Lite/assets/js/about-Main-vue.js:1
+#: dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/sitemaps-lite-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-lite-VideoSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-Main-vue.js:1
+#: dist/Lite/assets/js/sitemaps-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-NewsSitemapActivate-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps-pro-VideoSitemapActivate-vue.js:1
+#: dist/Lite/assets/js/sitemaps-VideoSitemap-vue.js:1
+#: dist/Lite/assets/js/sitemaps.js:1
+msgid "Video Sitemap"
+msgstr "Video sơ đồ trang"
+
+#: languages/aioseo-lite.php:5645
+#: dist/Lite/assets/js/tools-HtaccessEditor-vue.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+msgid "Edit .htaccess"
+msgstr "Chỉnh sửa .htaccess"
+
+#: languages/aioseo-lite.php:145 dist/Lite/assets/js/posts-table.js:1
+msgid "Save"
+msgstr "Lưu"
+
+#: languages/aioseo-lite.php:151 dist/Lite/assets/js/posts-table.js:1
+msgid "Please wait..."
+msgstr "Vui lòng chờ..."
+
+#: app/Common/Admin/Admin.php:491
+msgid "Edit SEO"
+msgstr "Chỉnh sửa SEO"
+
+#. Plugin Name of the plugin
+msgid "All in One SEO"
+msgstr "SEO Tất Cả Trong Một"
+
+#. Translators: This is an action link users can click to open our premium
+#. support.
+#: app/Lite/Main/Filters.php:54 languages/aioseo-lite.php:3997
+#: dist/Lite/assets/js/dashboard-Main-vue.js:1
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: app/Common/Tools/SystemStatus.php:49
+msgid "Version"
+msgstr "Phiên bản"
+
+#: app/Common/Admin/Admin.php:170 languages/aioseo-lite.php:9
+#: dist/Lite/assets/js/feature-manager-Main-vue.js:1
+#: dist/Lite/assets/js/feature-manager.js:1
+msgid "Feature Manager"
+msgstr "Trình quản lý tính năng"
+
+#: languages/aioseo-lite.php:1188 dist/Lite/assets/js/chunk-common.js:1
+msgid "Robots.txt"
+msgstr "Robots.txt"
+
+#: languages/aioseo-lite.php:4230
+#: dist/Lite/assets/js/tools-ImportExport-vue.js:1
+#: dist/Lite/assets/js/tools-partials-ExportSettings-vue.js:1
+msgid "Export Settings"
+msgstr "Cài đặt xuất"
+
+#: languages/aioseo-lite.php:27 dist/Lite/assets/js/post-settings.js:1
+#: dist/Lite/assets/js/social-networks.js:1
+msgid "Twitter"
+msgstr "Twitter"
+
+#: languages/aioseo-lite.php:24 dist/Lite/assets/js/post-settings.js:1
+#: dist/Lite/assets/js/social-networks.js:1
+msgid "Facebook"
+msgstr "Facebook"
+
+#: languages/aioseo-lite.php:3936
+#: dist/Lite/assets/js/redirects-pro-ImportExport-vue.js:1
+#: dist/Lite/assets/js/redirects-pro-partials-ImportAioseo-vue.js:1
+#: dist/Lite/assets/js/redirects-pro-partials-ImportOthers-vue.js:1
+#: dist/Lite/assets/js/setup-wizard.js:1
+#: dist/Lite/assets/js/tools-ImportExport-vue.js:1
+#: dist/Lite/assets/js/tools-partials-ImportAioseo-vue.js:1
+#: dist/Lite/assets/js/tools-partials-ImportOthers-vue.js:1
+msgid "Import"
+msgstr "Nhập"
+
+#: languages/aioseo-lite.php:651 dist/Lite/assets/js/chunk-common.js:1
+msgid "University"
+msgstr "Đại học"
+
+#: languages/aioseo-lite.php:657 dist/Lite/assets/js/chunk-common.js:1
+msgid "Actor"
+msgstr "Diễn viên"
+
+#: languages/aioseo-lite.php:660 dist/Lite/assets/js/chunk-common.js:1
+msgid "Athlete"
+msgstr "Vận động viên"
+
+#: languages/aioseo-lite.php:663 languages/aioseo-pro.php:194
+#: dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/settings-AccessControl-vue.js:1
+#: dist/Lite/assets/js/settings-lite-AccessControl-vue.js:1
+#: dist/Lite/assets/js/settings-Main-vue.js:1
+#: dist/Lite/assets/js/settings-pro-AccessControl-vue.js:1
+msgid "Author"
+msgstr "Tác giả"
+
+#: languages/aioseo-lite.php:666 dist/Lite/assets/js/chunk-common.js:1
+msgid "Director"
+msgstr "Giám đốc"
+
+#: languages/aioseo-lite.php:669 dist/Lite/assets/js/chunk-common.js:1
+msgid "Musician"
+msgstr "Nhạc sĩ"
+
+#: languages/aioseo-lite.php:672 dist/Lite/assets/js/chunk-common.js:1
+msgid "Politician"
+msgstr "Chính trị gia"
+
+#: languages/aioseo-lite.php:678 dist/Lite/assets/js/chunk-common.js:1
+msgid "Public Figure"
+msgstr "Người nổi tiếng"
+
+#: languages/aioseo-lite.php:684 dist/Lite/assets/js/chunk-common.js:1
+msgid "City"
+msgstr "Thành phố"
+
+#: languages/aioseo-lite.php:687 dist/Lite/assets/js/chunk-common.js:1
+msgid "Country"
+msgstr "Quốc gia"
+
+#: languages/aioseo-lite.php:690 dist/Lite/assets/js/chunk-common.js:1
+msgid "Landmark"
+msgstr "Ranh giới"
+
+#: languages/aioseo-lite.php:601 dist/Lite/assets/js/chunk-common.js:1
+msgid "Activity"
+msgstr "Hoạt động"
+
+#: languages/aioseo-lite.php:604 dist/Lite/assets/js/chunk-common.js:1
+msgid "Sport"
+msgstr "Thể thao"
+
+#: languages/aioseo-lite.php:610 dist/Lite/assets/js/chunk-common.js:1
+msgid "Bar"
+msgstr "Bar"
+
+#: languages/aioseo-lite.php:613 dist/Lite/assets/js/chunk-common.js:1
+msgid "Company"
+msgstr "Công ty"
+
+#: languages/aioseo-lite.php:616 dist/Lite/assets/js/chunk-common.js:1
+msgid "Cafe"
+msgstr "Cafe"
+
+#: languages/aioseo-lite.php:619 dist/Lite/assets/js/chunk-common.js:1
+msgid "Hotel"
+msgstr "Khách sạn"
+
+#: languages/aioseo-lite.php:622 dist/Lite/assets/js/chunk-common.js:1
+msgid "Restaurant"
+msgstr "Nhà hàng"
+
+#. Translators: This refers to a charity/non-profit organization.
+#: languages/aioseo-lite.php:629 dist/Lite/assets/js/chunk-common.js:1
+msgid "Cause"
+msgstr "Nguyên nhân"
+
+#: languages/aioseo-lite.php:632 dist/Lite/assets/js/chunk-common.js:1
+msgid "Sports League"
+msgstr "Giải đấu thể thao"
+
+#: languages/aioseo-lite.php:635 dist/Lite/assets/js/chunk-common.js:1
+msgid "Sports Team"
+msgstr "Đội thể thao"
+
+#. Translators: This refers to a music group.
+#: languages/aioseo-lite.php:642 dist/Lite/assets/js/chunk-common.js:1
+msgid "Band"
+msgstr "Ban nhạc"
+
+#: languages/aioseo-lite.php:648 dist/Lite/assets/js/chunk-common.js:1
+msgid "School"
+msgstr "Trường học"
+
+#: languages/aioseo-lite.php:699 dist/Lite/assets/js/chunk-common.js:1
+msgid "Album"
+msgstr "Album"
+
+#: languages/aioseo-lite.php:702 dist/Lite/assets/js/chunk-common.js:1
+msgid "Book"
+msgstr "Sách"
+
+#: languages/aioseo-lite.php:705 dist/Lite/assets/js/chunk-common.js:1
+msgid "Drink"
+msgstr "Nước uống"
+
+#: languages/aioseo-lite.php:708 dist/Lite/assets/js/chunk-common.js:1
+msgid "Food"
+msgstr "Thức ăn"
+
+#: languages/aioseo-lite.php:711 dist/Lite/assets/js/chunk-common.js:1
+msgid "Game"
+msgstr "Trò chơi"
+
+#: languages/aioseo-lite.php:714 dist/Lite/assets/js/chunk-common.js:1
+msgid "Movie"
+msgstr "Phim"
+
+#: languages/aioseo-lite.php:717 languages/aioseo-pro.php:93
+#: dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/search-appearance-partials-pro-Schema-vue.js:1
+msgid "Product"
+msgstr "Sản phẩm"
+
+#: languages/aioseo-lite.php:720 dist/Lite/assets/js/chunk-common.js:1
+msgid "Song"
+msgstr "Bài hát"
+
+#: languages/aioseo-lite.php:723 dist/Lite/assets/js/chunk-common.js:1
+msgid "TV Show"
+msgstr "Chương trình TV"
+
+#: languages/aioseo-lite.php:726 dist/Lite/assets/js/chunk-common.js:1
+msgid "Episode"
+msgstr "Tập"
+
+#: languages/aioseo-lite.php:733 languages/aioseo-pro.php:90
+#: dist/Lite/assets/js/chunk-common.js:1 dist/Lite/assets/js/post-settings.js:1
+#: dist/Lite/assets/js/search-appearance-ContentTypes-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Media-vue.js:1
+#: dist/Lite/assets/js/search-appearance-partials-lite-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-partials-pro-Schema-vue.js:1
+#: dist/Lite/assets/js/search-appearance-partials-Schema-vue.js:1
+msgid "Article"
+msgstr "Bài viết"
+
+#: languages/aioseo-lite.php:4866
+#: dist/Lite/assets/js/settings-Breadcrumbs-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-Category-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+msgid "Blog"
+msgstr "Blog"
+
+#: languages/aioseo-lite.php:736 dist/Lite/assets/js/chunk-common.js:1
+msgid "Website"
+msgstr "Trang web"
+
+#: languages/aioseo-lite.php:3525
+#: dist/Lite/assets/js/social-networks-Facebook-vue.js:1
+msgid "Site Name"
+msgstr "Tên trang"
+
+#: languages/aioseo-lite.php:1737 dist/Lite/assets/js/post-settings.js:1
+#: dist/Lite/assets/js/social-networks-Main-vue.js:1
+#: dist/Lite/assets/js/social-networks-Twitter-vue.js:1
+msgid "Summary"
+msgstr "Tổng kết"
+
+#: languages/aioseo-lite.php:1725 dist/Lite/assets/js/post-settings.js:1
+msgid "Twitter Card Type"
+msgstr "Loại thẻ Twitter"
+
+#: languages/aioseo-lite.php:3431
+#: dist/Lite/assets/js/social-networks-Main-vue.js:1
+#: dist/Lite/assets/js/social-networks-Twitter-vue.js:1
+msgid "Show Twitter Author"
+msgstr "Hiện tác giả Twitter"
+
+#: languages/aioseo-lite.php:3568
+#: dist/Lite/assets/js/social-networks-Facebook-vue.js:1
+msgid "Automatically Generate Article Tags"
+msgstr "Tạo tự động thẻ bài viết"
+
+#: languages/aioseo-lite.php:1153 dist/Lite/assets/js/chunk-common.js:1
+msgid "Post Author Image"
+msgstr "Ảnh tác giả bài đăng"
+
+#: languages/aioseo-lite.php:1156 dist/Lite/assets/js/chunk-common.js:1
+msgid "First Available Image"
+msgstr "Ảnh khả dụng đầu tiên"
+
+#: languages/aioseo-lite.php:1063
+#: dist/Lite/assets/js/local-seo-lite-Locations-vue.js:1
+#: dist/Lite/assets/js/local-seo-Locations-vue.js:1
+#: dist/Lite/assets/js/local-seo-Main-vue.js:1
+#: dist/Lite/assets/js/local-seo-Maps-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-LocalSeoCta-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-Locations-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-LocationsActivate-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-LocationsBusinessInfo-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-MapsActivate-vue.js:1
+#: dist/Lite/assets/js/local-seo-pro-OpeningHoursActivate-vue.js:1
+#: dist/Lite/assets/js/post-settings.js:1
+#: dist/Lite/assets/js/social-networks-Facebook-vue.js:1
+msgid "Image"
+msgstr "Ảnh"
+
+#: languages/aioseo-lite.php:1162 dist/Lite/assets/js/chunk-common.js:1
+msgid "Custom Image"
+msgstr "Tuỳ chỉnh ảnh"
+
+#: languages/aioseo-lite.php:1755 dist/Lite/assets/js/post-settings.js:1
+#: dist/Lite/assets/js/social-networks-Facebook-vue.js:1
+msgid "Object Type"
+msgstr "Loại đối tượng"
+
+#: languages/aioseo-lite.php:3930 dist/Lite/assets/js/tools.js:1
+msgid "System Status"
+msgstr "Trạng thái hệ thống"
+
+#: app/Common/Tools/SystemStatus.php:129 app/Common/Tools/SystemStatus.php:133
+#: app/Common/Tools/SystemStatus.php:137 app/Common/Tools/SystemStatus.php:141
+#: app/Common/Tools/SystemStatus.php:145 app/Common/Tools/SystemStatus.php:149
+#: app/Common/Tools/SystemStatus.php:153
+msgid "Not set"
+msgstr "Không thiết lập"
+
+#: languages/aioseo-lite.php:1773 dist/Lite/assets/js/post-settings.js:1
+msgid "Article Section"
+msgstr "Phần bài viết"
+
+#: languages/aioseo-lite.php:1776 dist/Lite/assets/js/post-settings.js:1
+msgid "Article Tags"
+msgstr "Thẻ bài viết"
+
+#: languages/aioseo-lite.php:3848
+#: dist/Lite/assets/js/search-appearance-GlobalSettings-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-AdditionalInformation-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+msgid "Person"
+msgstr "Cá nhân"
+
+#: languages/aioseo-lite.php:3851
+#: dist/Lite/assets/js/search-appearance-GlobalSettings-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-AdditionalInformation-vue.js:1
+#: dist/Lite/assets/js/setup-wizard-Main-vue.js:1
+msgid "Organization"
+msgstr "Tổ chức"
+
+#: languages/aioseo-pro.php:114
+msgid "Social Settings"
+msgstr "Cài đặt xã hội"
+
+#: languages/aioseo-lite.php:939 dist/Lite/assets/js/chunk-common.js:1
+msgid "On"
+msgstr "Bật"
+
+#: languages/aioseo-lite.php:936 dist/Lite/assets/js/chunk-common.js:1
+msgid "Off"
+msgstr "Tắt"
+
+#: app/Common/Tools/SystemStatus.php:185 languages/aioseo-lite.php:81
+#: dist/Lite/assets/js/post-settings.js:1
+#: dist/Lite/assets/js/publish-panel.js:1
+msgid "N/A"
+msgstr "N/A"
+
+#: app/Common/Tools/SystemStatus.php:176 languages/aioseo-pro.php:260
+msgid "Operating System"
+msgstr "Hệ điều hành"
+
+#: languages/aioseo-lite.php:882 dist/Lite/assets/js/chunk-common.js:1
+msgid "Server"
+msgstr "Máy chủ"
+
+#: app/Common/Tools/SystemStatus.php:196
+msgid "PHP Version"
+msgstr "Phiên bản PHP"
+
+#: app/Common/Tools/SystemStatus.php:200
+msgid "PHP Memory Limit"
+msgstr "Giới hạn bộ nhớ PHP"
+
+#: app/Common/Tools/SystemStatus.php:208
+msgid "PHP Max Upload Size"
+msgstr "Kích thước tải lên tối đa PHP"
+
+#: app/Common/Tools/SystemStatus.php:212
+msgid "PHP Max Post Size"
+msgstr "Kích thước bài đăng tối đa PHP"
+
+#: languages/aioseo-lite.php:3407
+#: dist/Lite/assets/js/social-networks-Facebook-vue.js:1
+#: dist/Lite/assets/js/social-networks-Main-vue.js:1
+#: dist/Lite/assets/js/social-networks-Twitter-vue.js:1
+msgid "Home Page Settings"
+msgstr "Cài đặt trang chủ"
+
+#: languages/aioseo-lite.php:84 dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/post-settings.js:1
+msgid "Display Settings"
+msgstr "Cài đặt hiển thị"
+
+#: app/Common/Admin/Admin.php:262 app/Common/Models/Post.php:240
+#: app/Common/Views/sitemap/html/widget-options.php:8
+#: languages/aioseo-lite.php:1407 dist/Lite/assets/js/post-settings.js:1
+#: dist/Lite/assets/js/social-networks-Facebook-vue.js:1
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: app/Common/Utils/Tags.php:521 languages/aioseo-lite.php:3422
+#: languages/aioseo-pro.php:176
+#: dist/Lite/assets/js/social-networks-Facebook-vue.js:1
+#: dist/Lite/assets/js/social-networks-Main-vue.js:1
+#: dist/Lite/assets/js/social-networks-Twitter-vue.js:1
+msgid "Description"
+msgstr "Miêu tả"
+
+#: languages/aioseo-lite.php:3282
+#: dist/Lite/assets/js/search-appearance-Advanced-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+msgid "Description Format"
+msgstr "Định dạng miêu tả"
+
+#: languages/aioseo-lite.php:954 dist/Lite/assets/js/chunk-common.js:1
+msgid "Enabled"
+msgstr "Đã kích hoạt"
+
+#: app/Common/Tools/SystemStatus.php:129 app/Common/Tools/SystemStatus.php:133
+#: app/Common/Tools/SystemStatus.php:137 app/Common/Tools/SystemStatus.php:141
+#: app/Common/Tools/SystemStatus.php:145 app/Common/Tools/SystemStatus.php:149
+#: app/Common/Tools/SystemStatus.php:153 languages/aioseo-lite.php:951
+#: dist/Lite/assets/js/chunk-common.js:1
+msgid "Disabled"
+msgstr "Đã vô hiệu hoá"
+
+#: languages/aioseo-lite.php:3255
+#: dist/Lite/assets/js/search-appearance-Advanced-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+msgid "This option allows you to toggle the use of Meta Keywords throughout the whole of the site."
+msgstr "Tuỳ chọn này cho phép bạn chuyển đổi sử dụng Từ khoá Meta trong suốt toàn bộ trang."
+
+#: languages/aioseo-lite.php:3261
+#: dist/Lite/assets/js/search-appearance-Advanced-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+msgid "Check this if you want your categories for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "Đánh dấu nếu bạn muốn các chuyên mục của bạn cho một bài đăng được sử dụng như Từ khoá Meta cho bài đăng này (bổ sung thêm bất kỳ từ khoá nào bạn chỉ rõ trên màn hình Chỉnh sửa bài đăng)."
+
+#: languages/aioseo-lite.php:3267
+#: dist/Lite/assets/js/search-appearance-Advanced-vue.js:1
+#: dist/Lite/assets/js/search-appearance-Main-vue.js:1
+msgid "Check this if you want your tags for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "Đánh dấu nếu bạn muốn các thẻ của bạn cho một bài đăng được sử dụng như Từ khoá Mtea cho bài đăng này (bổ sung thêm bất kỳ từ khoá nào bạn chỉ rõ trên màn hình Chỉnh sửa bài đăng)."
+
+#: app/Common/Admin/Admin.php:134 languages/aioseo-lite.php:3982
+#: languages/aioseo-pro.php:135 dist/Lite/assets/js/settings-Main-vue.js:1
+#: dist/Lite/assets/js/settings.js:1
+msgid "General Settings"
+msgstr "Thiết lập chung"
+
+#: languages/aioseo-lite.php:1192 dist/Lite/assets/js/chunk-common.js:1
+#: dist/Lite/assets/js/tools-BadBotBlocker-vue.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1 dist/Lite/assets/js/tools.js:1
+msgid "Bad Bot Blocker"
+msgstr "Trình chặn chương trình xấu"
+
+#: languages/aioseo-lite.php:4065
+#: dist/Lite/assets/js/tools-BadBotBlocker-vue.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+msgid "Track Blocked Bots"
+msgstr "Theo dõi các chương trình đã chặn"
+
+#: languages/aioseo-lite.php:4071
+#: dist/Lite/assets/js/tools-BadBotBlocker-vue.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+msgid "User Agent Blocklist"
+msgstr "Danh sách chặn đại lý người dùng"
+
+#: languages/aioseo-lite.php:4074
+#: dist/Lite/assets/js/tools-BadBotBlocker-vue.js:1
+#: dist/Lite/assets/js/tools-Main-vue.js:1
+msgid "Referer Blocklist"
+msgstr "Danh sách chặn người giới thiệu"

@@ -1,0 +1,45 @@
+2021-10-21T09:14:58+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/panel-builder/header/cart/view.php(204): woocommerce_mini_cart()
+#3 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/helpers.php(800): require('/home/hmkshopc/...')
+#4 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/components/builder/builder-header-renderer.php(397): blocksy_render_view('/home/hmkshopc/...', NULL, 'Item cart not r...')
+#5 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/components/builder/builder-header-renderer.php(680): Blocksy_Header_Builder_Render->render_single_item('car in /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/woocommerce/cart/mini-cart.php on line 24
+
+2021-10-21T09:15:01+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/panel-builder/header/cart/view.php(204): woocommerce_mini_cart()
+#3 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/helpers.php(800): require('/home/hmkshopc/...')
+#4 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/components/builder/builder-header-renderer.php(397): blocksy_render_view('/home/hmkshopc/...', NULL, 'Item cart not r...')
+#5 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/components/builder/builder-header-renderer.php(680): Blocksy_Header_Builder_Render->render_single_item('car in /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/woocommerce/cart/mini-cart.php on line 24
+
+2021-10-21T09:15:38+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/panel-builder/header/cart/view.php(204): woocommerce_mini_cart()
+#3 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/helpers.php(800): require('/home/hmkshopc/...')
+#4 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/components/builder/builder-header-renderer.php(397): blocksy_render_view('/home/hmkshopc/...', NULL, 'Item cart not r...')
+#5 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/components/builder/builder-header-renderer.php(680): Blocksy_Header_Builder_Render->render_single_item('car in /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/woocommerce/cart/mini-cart.php on line 24
+
+2021-10-21T09:16:19+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/panel-builder/header/cart/view.php(204): woocommerce_mini_cart()
+#3 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/helpers.php(800): require('/home/hmkshopc/...')
+#4 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/components/builder/builder-header-renderer.php(397): blocksy_render_view('/home/hmkshopc/...', NULL, 'Item cart not r...')
+#5 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/components/builder/builder-header-renderer.php(680): Blocksy_Header_Builder_Render->render_single_item('car in /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/woocommerce/cart/mini-cart.php on line 24
+
+2021-10-21T17:12:25+00:00 CRITICAL Uncaught Error: Call to a member function is_empty() on null in /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/woocommerce/cart/mini-cart.php:24
+Stack trace:
+#0 /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home/hmkshopc/public_html/wp/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2215): wc_get_template('cart/mini-cart....', Array)
+#2 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/panel-builder/header/cart/view.php(204): woocommerce_mini_cart()
+#3 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/helpers.php(800): require('/home/hmkshopc/...')
+#4 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/components/builder/builder-header-renderer.php(397): blocksy_render_view('/home/hmkshopc/...', NULL, 'Item cart not r...')
+#5 /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/inc/components/builder/builder-header-renderer.php(680): Blocksy_Header_Builder_Render->render_single_item('car in /home/hmkshopc/public_html/wp/wp-content/themes/blocksy/woocommerce/cart/mini-cart.php on line 24
+

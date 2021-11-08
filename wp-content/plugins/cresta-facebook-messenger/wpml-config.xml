@@ -1,0 +1,8 @@
+<wpml-config>
+	<admin-texts>
+		<key name="crestafacebookmessenger_settings">
+			<key name="cresta_facebook_messenger_box_text"/>
+			<key name="cresta_facebook_messenger_box_language"/>
+		</key>
+	</admin-texts>
+</wpml-config>

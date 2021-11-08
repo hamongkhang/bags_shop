@@ -1,0 +1,138 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-24 06:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: lib/class-appmaker-wc-rest-authentication.php:151
+msgid "Auth Token is invalid."
+msgstr ""
+
+#: lib/class-appmaker-wc-rest-authentication.php:194
+msgid ""
+"Appmaker WooCommerce API - Use a consumer key in the username field and a "
+"consumer secret in the password field."
+msgstr ""
+
+#: lib/class-appmaker-wc-options.php:49
+msgid "Click here"
+msgstr ""
+
+#: lib/class-appmaker-wc-options.php:49
+msgid "to Customize Navigation Menu, In-App Pages or send push notification."
+msgstr ""
+
+#: lib/class-appmaker-wc-options.php:79
+msgid "API key details"
+msgstr ""
+
+#: lib/class-appmaker-wc-options.php:86
+msgid "Project ID"
+msgstr ""
+
+#: lib/class-appmaker-wc-options.php:94
+msgid "API Key"
+msgstr ""
+
+#: lib/class-appmaker-wc-options.php:102
+msgid "API Secret"
+msgstr ""
+
+#: lib/endpoints/wc/class-appmaker-wc-rest-cart-controller.php:234
+msgid "Cart is empty"
+msgstr ""
+
+#: lib/endpoints/wc/class-appmaker-wc-rest-products-controller.php:1005
+#: lib/endpoints/appmaker/class-appmaker-wc-rest-backend-settings-controller.php:285
+msgid "Specification"
+msgstr ""
+
+#: lib/endpoints/wc/class-appmaker-wc-rest-user-controller.php:256
+msgid "The e-mail could not be sent"
+msgstr ""
+
+#: lib/endpoints/wc/class-appmaker-wc-rest-user-controller.php:263
+msgid ""
+"Link for password reset has been emailed to you. Please check your email."
+msgstr ""
+
+#: lib/endpoints/wc/class-appmaker-wc-rest-user-controller.php:577
+#: lib/endpoints/wc/class-appmaker-wc-rest-user-controller.php:617
+msgid "Username."
+msgstr ""
+
+#: lib/endpoints/wc/class-appmaker-wc-rest-user-controller.php:584
+#: lib/endpoints/wc/class-appmaker-wc-rest-user-controller.php:624
+#: lib/endpoints/wc/class-appmaker-wc-rest-user-controller.php:651
+msgid "Email."
+msgstr ""
+
+#: lib/endpoints/wc/class-appmaker-wc-rest-user-controller.php:591
+msgid "Mobile Number."
+msgstr ""
+
+#: lib/endpoints/wc/class-appmaker-wc-rest-user-controller.php:599
+#: lib/endpoints/wc/class-appmaker-wc-rest-user-controller.php:631
+msgid "Password."
+msgstr ""
+
+#: lib/endpoints/wc/class-appmaker-wc-rest-user-controller.php:668
+msgid "Url."
+msgstr ""
+
+#: lib/endpoints/appmaker/class-appmaker-wc-rest-backend-settings-controller.php:45
+msgid "Social Login"
+msgstr ""
+
+#: lib/endpoints/appmaker/class-appmaker-wc-rest-backend-settings-controller.php:63
+msgid "Caching"
+msgstr ""
+
+#: lib/endpoints/appmaker/class-appmaker-wc-rest-backend-settings-controller.php:90
+msgid "Product List"
+msgstr ""
+
+#: lib/endpoints/appmaker/class-appmaker-wc-rest-backend-settings-controller.php:108
+msgid "Checkout Settings"
+msgstr ""
+
+#: lib/endpoints/appmaker/class-appmaker-wc-rest-backend-settings-controller.php:140
+msgid "Product Detail Tabs"
+msgstr ""
+
+#: lib/endpoints/appmaker/class-appmaker-wc-rest-backend-settings-controller.php:145
+msgid "Orders"
+msgstr ""
+
+#: lib/endpoints/appmaker/class-appmaker-wc-rest-backend-settings-controller.php:192
+msgid "Json is invalid."
+msgstr ""
+
+#. Name of the plugin
+msgid "Appmaker WooCommerce App Manager"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This Plugin is used to manage Android and iOS mobile app created for your "
+"WooCommerce store (Version 2)"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://appmaker.xyz"
+msgstr ""
+
+#. Author of the plugin
+msgid "Appmaker.xyz"
+msgstr ""

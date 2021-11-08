@@ -1,0 +1,207 @@
+#wpbody-content .metabox-holder {
+    margin-right: 300px;
+}
+.dashicons.space {
+	margin-right: 10px;
+}
+body.rtl .dashicons.space {
+    margin-right: inherit;
+	margin-left: 10px;
+}
+ul.list-group {
+	border: 1px solid rgba(0,0,0,.03);
+	padding: 12px;
+}
+ul.list-group .list-group-item {
+	padding: 5px;
+}
+.inside h3 {
+	background: #eeeeee;
+	border: 1px solid rgba(0,0,0,.03);
+	padding: 12px;
+}
+ul.list-group .list-group-item img {
+	vertical-align: middle;
+}
+.postbox img {
+	max-width: 100%;
+	height: auto;
+}
+.postbox .crestaButton {
+	background: #0074a2;
+	color: #ffffff;
+	text-decoration: none;
+	padding: 8px;
+	display: inline-block;
+	margin-top: 5px;
+}
+.postbox .crestaButton:hover {
+	background: #008cc3;
+}
+.postbox .crestaGreen {
+	color: #51ab6d;
+}
+.postbox label > input[name=stylebutton] {
+  display:none;
+}
+.postbox label > input[name=stylebutton] + img {
+  cursor:pointer;
+  border:2px solid rgba(0,0,0,.03);
+  margin-right: 12px;
+  margin-bottom: 12px;
+  -o-transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -webkit-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+}
+.postbox label > input[name=stylebutton] + img:hover {
+  border:2px solid rgba(0,0,0,.1);
+}
+.postbox label > input:checked[name=stylebutton] + img {
+  border:2px solid #0074a2;
+}
+.wrap h2 {
+	display: inline-block;
+}
+.crestaButtonUpgrade {
+	background: #d54e21;
+	color: #ffffff;
+	text-decoration: none;
+	padding: 8px;
+	display: inline-block;
+	margin-right: 15px;
+}
+body.rtl .crestaButtonUpgrade {
+	margin-right: inherit;
+	margin-left: 15px;
+}
+.crestaButtonUpgrade:hover {
+	background: #e47e5c;
+	color: #ffffff;
+}
+.crestaButtonUpgrade span {
+    margin-right: 10px;
+}
+body.rtl .crestaButtonUpgrade span {
+    margin-right: inherit;
+	margin-left: 10px;
+}
+.crestaDisabled {
+	color: rgba(0,0,0,.5);
+}
+.crestaDisabled span {
+	color: #d54e21;
+}
+small {
+	display: block;
+	font-size: 80%;
+}
+.range-slider .input-range {
+  -webkit-appearance: none;
+  width: 300px;
+  height: 12px;
+  border-radius: 5px;
+  background: #ccc;
+  outline: none;
+}
+.range-slider .input-range::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #353535;
+  cursor: pointer;
+  -webkit-transition: background .15s ease-in-out;
+  transition: background .15s ease-in-out;
+}
+.range-slider .input-range::-webkit-slider-thumb:hover {
+  background: #d54e21;
+}
+.range-slider .input-range:active::-webkit-slider-thumb {
+  background: #d54e21;
+}
+.range-slider .input-range::-moz-range-thumb {
+  width: 20px;
+  height: 20px;
+  border: 0;
+  border-radius: 50%;
+  background: #353535;
+  cursor: pointer;
+  -webkit-transition: background .15s ease-in-out;
+  transition: background .15s ease-in-out;
+}
+.range-slider .input-range::-moz-range-thumb:hover {
+  background: #d54e21;
+}
+.range-slider .input-range:active::-moz-range-thumb {
+  background: #d54e21;
+}
+.range-slider .range-value {
+  display: inline-block;
+  position: relative;
+  width: 60px;
+  color: #fff;
+  text-align: center;
+  border-radius: 3px;
+  background: #353535;
+  padding: 5px 10px;
+  margin-left: 7px;
+}
+.range-slider .range-value:after {
+  position: absolute;
+  top: 8px;
+  left: -7px;
+  width: 0;
+  height: 0;
+  border-top: 7px solid transparent;
+  border-right: 7px solid #353535;
+  border-bottom: 7px solid transparent;
+  content: '';
+}
+
+::-moz-range-track {
+  background: #ccc;
+  border: 0;
+}
+
+input::-moz-focus-inner {
+  border: 0;
+}
+body.settings_page_cresta-facebook-messenger pre {
+	display: block;
+    line-height: 18px;
+    margin: 0 0 24px;
+    padding: 5px 10px;
+    white-space: pre-line;
+    background-color: #f0f0f0;
+    max-height: 40em;
+}
+body.rtl.settings_page_cresta-facebook-messenger pre {
+	text-align: right;
+}
+body.settings_page_cresta-facebook-messenger code {
+	display: block;
+    border: none;
+    padding: 0;
+    margin: 0;
+    background-color: transparent;
+    overflow-wrap: normal;
+    overflow: auto;
+    max-width: 100%;
+}
+span.description.attributes {
+	display: block;
+}
+span.description.attributes.notice {
+	padding: 1em;
+    background: aliceblue;
+    border: 1px solid rgba(0,0,0,0.1);
+    margin-top: 1em;
+}
+.crestaOpa {
+	opacity: 0.5;
+}
+span.getPRO {
+	color: #ff0000;
+	font-weight: 700;
+}

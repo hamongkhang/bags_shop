@@ -1,0 +1,12 @@
+[20-Oct-2021 20:38:50 UTC] WordPress database error Table 'hmkshopc_wp247.wp3p_woocommerce_sessions' doesn't exist for query SELECT session_value FROM wp3p_woocommerce_sessions WHERE session_key = '1' made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WooCommerce->init, wc_load_cart, WooCommerce->initialize_session, WC_Session_Handler->init, WC_Session_Handler->init_session_cookie, WC_Session_Handler->get_session_data, WC_Session_Handler->get_session
+[20-Oct-2021 20:38:50 UTC] WordPress database error Table 'hmkshopc_wp247.wp3p_wc_webhooks' doesn't exist for query SELECT webhook_id
+				FROM wp3p_wc_webhooks
+				WHERE 1=1
+				AND `status` = 'active'
+				
+				
+				
+				
+				
+				ORDER BY webhook_id DESC made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WooCommerce->init, WooCommerce->load_webhooks, wc_load_webhooks, WC_Data_Store->__call, WC_Webhook_Data_Store->get_webhooks_ids, WC_Webhook_Data_Store->search_webhooks
+[20-Oct-2021 20:38:50 UTC] WordPress database error Table 'hmkshopc_wp247.wp3p_woocommerce_attribute_taxonomies' doesn't exist for query SELECT * FROM wp3p_woocommerce_attribute_taxonomies WHERE attribute_name != '' ORDER BY attribute_name ASC; made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, WC_Post_Types::register_taxonomies, wc_get_attribute_taxonomies
